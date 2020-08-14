@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Es un programa de Sol
+
+v 0.1
+
+Aparece hola
+
+v 0.2
+
+Aparece hola y puede aparecer con S
+
+
